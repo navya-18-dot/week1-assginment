@@ -1,0 +1,1 @@
+Build a comprehensive student performance analytics system using Python's data science stack. Analyze student marks, attendance records, and demographic data to uncover performance patterns, identify at-risk students, and generate actionable insights for educational improvement.
